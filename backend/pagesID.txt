@@ -1,0 +1,90 @@
+man_u_id = {
+    "Premeir League Updates": 107114595619952,
+    "Scott McTomanay": 143572825502907,
+    "M Mount": 113945945081148,
+    "A Onana": 111709075305195,
+    "S Amrabat": 113741165159433,
+}
+liv_id = {
+    "Liverpool fans only": 108743864981514
+}
+ches_id = {
+    "Pride of London": 110471265470962
+}
+
+man united page_group = 107114595619952,143572825502907,113945945081148,111709075305195,113741165159433
+Liverpool page_group = 108743864981514
+chelsea page_group = 110471265470962, 156153250908970
+
+,
+        "108743864981514",
+        "110471265470962",
+        "156153250908970"
+
+
+
+Manchester United
+{
+  "access_token": "access_token",
+  "pages": [
+    {
+      "page_group": [
+        "101303759608501",
+        "107114595619952",
+        "143572825502907",
+        "113945945081148",
+        "111709075305195",
+        "113741165159433",
+        "101706591626614",
+        "118229977905600"
+      ],
+      "message": "messages/001.message.txt",
+      "image_file": "media/image216.jpg",
+      "comment": "messages/001.comment.txt"
+    }
+  ]
+}
+
+
+__________
+
+chelsea
+
+{
+  "access_token": "Access_token",
+  "pages": [
+    {
+      "page_group": [
+        "101303759608501",
+        "110471265470962",
+        "156153250908970"
+      ],
+      "message": "messages/001.message.txt",
+      "image_file": "media/image216.jpg",
+      "comment": "messages/001.comment.txt"
+    }
+  ]
+}
+
+__________
+
+Liverpool
+
+{
+  "access_token": "Access token",
+  "pages": [
+    {
+      "page_group": [
+        "101303759608501",
+        "108743864981514"
+      ],
+      "message": "messages/001.message.txt",
+      "image_file": "media/image216.jpg",
+      "comment": "messages/001.comment.txt"
+    }
+  ]
+}
+__________
+
+
+
